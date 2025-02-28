@@ -8,7 +8,7 @@ This project was part of the induction process of Spider, the Research and Devel
 * Given the angle of projection and speed of the rock shard flying out from the volcano, a capturing mechanism should extend to the required height (using a stepper motor) and a capsule must angle itself in the correct orientation (controlled by a servo motor)
 * Once the shard is collected, water is used to cool it down by 100 degrees and the amount of water used for this is noted. This gives the specific heat of the rock sample.
 * The specific heat is to be transmitted to the base station as a laser pulse beam. For this, it should be converted to a bitstream and then an LED should be made to blink in the same sequence.
-#Implementation and how to view:
+# Implementation and how to view:
 * The entire system is modelled in Wokwi
 * The left side shows the code used by the arduino while the right top part shows the circuit.
 * The right bottom part will show the Serial monitor for giving inputs.
